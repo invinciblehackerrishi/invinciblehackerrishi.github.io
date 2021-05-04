@@ -1,1 +1,1 @@
-This is a note saved from obsidian......!
+This is a note saved from obsidian.

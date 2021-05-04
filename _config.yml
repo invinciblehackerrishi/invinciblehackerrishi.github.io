@@ -9,7 +9,8 @@ name: Invincible Hacker
 description: Security Analyst & Linux Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/invinciblehackerrishi/invinciblehackerrishi.github.io/blob/master/images/hacker.png
+avatar: /images/hacker.png
+# https://github.com/invinciblehackerrishi/invinciblehackerrishi.github.io/blob/master/images/hacker.png
 
 #
 # Flags below are optional

@@ -1,1 +1,3 @@
-This is a note saved from obsidian.
+layout: post
+title: This is a note saved from obsidian !
+
